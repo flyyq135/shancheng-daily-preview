@@ -7,20 +7,25 @@
   "wecom_payload": {
     "msgtype": "template_card",
     "template_card": {
-      "card_type": "text_notice",
+      "card_type": "news_notice",
       "source": {
-        "desc": "山城选题日报",
+        "desc": "贝壳·银河计划",
         "desc_color": 3
       },
       "main_title": {
         "title": "重庆楼市选题日报",
         "desc": "2026.07.22 · 第2期"
       },
-      "emphasis_content": {
-        "title": "8条",
-        "desc": "今日已核验资讯"
+      "card_image": {
+        "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
+        "aspect_ratio": 1.8
       },
-      "sub_title_text": "全国政策、重庆楼市、本地热点各1条，帮你快速找到今天值得讲的内容。",
+      "vertical_content_list": [
+        {
+          "title": "今日8条已核验资讯",
+          "desc": "全国政策、重庆楼市、本地热点，帮你快速找到今天值得讲的内容。"
+        }
+      ],
       "horizontal_content_list": [
         {
           "keyname": "全国重点",
