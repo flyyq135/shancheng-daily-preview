@@ -8,7 +8,7 @@
     },
     "main_title": {
       "title": "重庆楼市选题日报",
-      "desc": "2026.07.22 · 第2期"
+      "desc": "2026.07.23 · 第3期"
     },
     "card_image": {
       "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -16,14 +16,14 @@
     },
     "vertical_content_list": [
       {
-        "title": "今日8条已核验资讯",
+        "title": "今日9条已核验资讯",
         "desc": "全国政策、重庆楼市、本地热点，帮你快速找到今天值得讲的内容。"
       }
     ],
     "horizontal_content_list": [
       {
         "keyname": "全国重点",
-        "value": "7月LPR维持不变"
+        "value": "上半年二手房占新房和二手房交易总量50.4%"
       },
       {
         "keyname": "重庆楼市",
@@ -35,19 +35,19 @@
       },
       {
         "keyname": "更多内容",
-        "value": "另有5条资讯｜8区动态｜6条客户选题"
+        "value": "另有6条资讯｜8区动态｜6条客户选题"
       }
     ],
     "jump_list": [
       {
         "type": 1,
-        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/05455795-e156-47ee-ad62-44e8c9a526a8",
+        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/bfe30f9e-dffb-464d-829e-32deaee623cf",
         "title": "查看完整日报"
       }
     ],
     "card_action": {
       "type": 1,
-      "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/05455795-e156-47ee-ad62-44e8c9a526a8"
+      "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/bfe30f9e-dffb-464d-829e-32deaee623cf"
     }
   }
 }
