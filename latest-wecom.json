@@ -1,8 +1,8 @@
 {
-  "date": "2026-07-23",
-  "issue": 3,
-  "updated_at": "14:13",
-  "report_url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/0d26dd47-e5e8-4388-a4bd-80bf62645632",
+  "date": "2026-07-24",
+  "issue": 4,
+  "updated_at": "09:12",
+  "report_url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/e0c6ed68-9c2f-43dc-9d99-b826dbf62217",
   "recommended_message_type": "template_card",
   "wecom_payload": {
     "msgtype": "template_card",
@@ -14,7 +14,7 @@
       },
       "main_title": {
         "title": "重庆楼市选题日报",
-        "desc": "2026.07.23 · 第3期"
+        "desc": "2026.07.24 · 第4期"
       },
       "card_image": {
         "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -37,7 +37,7 @@
         },
         {
           "keyname": "本地热点",
-          "value": "轨道7号线更新三个节点"
+          "value": "轨道7号线更新三个建设节点"
         },
         {
           "keyname": "贝壳周报",
@@ -51,15 +51,15 @@
       "jump_list": [
         {
           "type": 1,
-          "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/0d26dd47-e5e8-4388-a4bd-80bf62645632",
+          "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/e0c6ed68-9c2f-43dc-9d99-b826dbf62217",
           "title": "查看完整日报"
         }
       ],
       "card_action": {
         "type": 1,
-        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/0d26dd47-e5e8-4388-a4bd-80bf62645632"
+        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/e0c6ed68-9c2f-43dc-9d99-b826dbf62217"
       }
     }
   },
-  "text": "【重庆楼市选题日报｜2026.07.23】\n热点资讯\n① 上半年二手房占新房和二手房交易总量50.4%\n② 重庆披露城市更新规划土地政策工具与应用案例\n③ 轨道7号线更新三个节点：区间始发、贯通与出入口封顶\n④ 新房成交5.8万㎡，量价环比回升\n另有7条已核验资讯，点击日报查看。\n固定栏目：8区动态｜购房百科｜6条客户选题｜灵感补给\nhttps://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/0d26dd47-e5e8-4388-a4bd-80bf62645632"
+  "text": "【重庆楼市选题日报｜2026.07.24】\n热点资讯\n① 上半年二手房占新房和二手房交易总量50.4%\n② 重庆披露城市更新规划土地政策工具与应用案例\n③ 轨道7号线更新三个建设节点\n④ 新房成交5.8万㎡，量价环比回升\n另有7条已核验资讯，点击日报查看。\n固定栏目：8区动态｜购房百科｜6条客户选题｜灵感补给\nhttps://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/e0c6ed68-9c2f-43dc-9d99-b826dbf62217"
 }
