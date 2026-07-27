@@ -1,8 +1,8 @@
 {
-  "date": "2026-07-24",
-  "issue": 4,
-  "updated_at": "09:12",
-  "report_url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/e0c6ed68-9c2f-43dc-9d99-b826dbf62217",
+  "date": "2026-07-27",
+  "issue": 6,
+  "updated_at": "09:18",
+  "report_url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/54fbea1a-ef7d-4f69-8ec0-a70dc34b96d5",
   "recommended_message_type": "template_card",
   "wecom_payload": {
     "msgtype": "template_card",
@@ -14,7 +14,7 @@
       },
       "main_title": {
         "title": "重庆楼市选题日报",
-        "desc": "2026.07.24 · 第4期"
+        "desc": "2026.07.27 · 第6期"
       },
       "card_image": {
         "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -22,7 +22,7 @@
       },
       "vertical_content_list": [
         {
-          "title": "今日11条已核验资讯",
+          "title": "今日9条已核验资讯",
           "desc": "全国政策、重庆楼市、本地热点与贝壳周报，帮你快速找到今天值得讲的内容。"
         }
       ],
@@ -37,7 +37,7 @@
         },
         {
           "keyname": "本地热点",
-          "value": "轨道7号线更新三个建设节点"
+          "value": "重庆首宗地下综合管廊不动产权证落地巴南"
         },
         {
           "keyname": "贝壳周报",
@@ -45,21 +45,21 @@
         },
         {
           "keyname": "更多内容",
-          "value": "另有7条资讯｜8区动态｜6条客户选题"
+          "value": "另有5条资讯｜8区动态｜6条客户选题"
         }
       ],
       "jump_list": [
         {
           "type": 1,
-          "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/e0c6ed68-9c2f-43dc-9d99-b826dbf62217",
+          "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/54fbea1a-ef7d-4f69-8ec0-a70dc34b96d5",
           "title": "查看完整日报"
         }
       ],
       "card_action": {
         "type": 1,
-        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/e0c6ed68-9c2f-43dc-9d99-b826dbf62217"
+        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/54fbea1a-ef7d-4f69-8ec0-a70dc34b96d5"
       }
     }
   },
-  "text": "【重庆楼市选题日报｜2026.07.24】\n热点资讯\n① 上半年二手房占新房和二手房交易总量50.4%\n② 重庆披露城市更新规划土地政策工具与应用案例\n③ 轨道7号线更新三个建设节点\n④ 新房成交5.8万㎡，量价环比回升\n另有7条已核验资讯，点击日报查看。\n固定栏目：资讯要点｜8区动态｜选题角度｜购房百科｜灵感补给\nhttps://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/e0c6ed68-9c2f-43dc-9d99-b826dbf62217"
+  "text": "【重庆楼市选题日报｜2026.07.27】\n热点资讯\n① 上半年二手房占新房和二手房交易总量50.4%\n② 重庆披露城市更新规划土地政策工具与应用案例\n③ 重庆首宗地下综合管廊不动产权证落地巴南\n④ 新房成交5.8万㎡，量价环比回升\n另有5条已核验资讯，点击日报查看。\n固定栏目：资讯要点｜8区动态｜选题角度｜购房百科｜灵感补给\nhttps://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/54fbea1a-ef7d-4f69-8ec0-a70dc34b96d5"
 }
