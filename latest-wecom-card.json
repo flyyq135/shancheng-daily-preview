@@ -8,7 +8,7 @@
     },
     "main_title": {
       "title": "重庆楼市选题日报",
-      "desc": "2026.07.27"
+      "desc": "2026.07.28"
     },
     "card_image": {
       "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -23,15 +23,11 @@
     "horizontal_content_list": [
       {
         "keyname": "全国重点",
-        "value": "扩大消费“十五五”规划提出优化住房供给与提升物业服…"
-      },
-      {
-        "keyname": "重庆楼市",
-        "value": "重庆公积金可直接支付新建商品住房购房首付款"
+        "value": "住建部"
       },
       {
         "keyname": "本地热点",
-        "value": "重庆将开展高校毕业生就业服务攻坚行动并发布24万个…"
+        "value": "重庆高校聚焦产业急需赛道开设三类微专业"
       },
       {
         "keyname": "贝壳周报",
@@ -39,19 +35,19 @@
       },
       {
         "keyname": "更多内容",
-        "value": "另有5条资讯｜8区动态｜6条客户选题"
+        "value": "另有6条资讯｜8区动态｜6条客户选题"
       }
     ],
     "jump_list": [
       {
         "type": 1,
-        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/b23cca0e-3d37-400f-9a2c-3c038dbf4ec7",
+        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/e8474f5d-8d97-4cc8-a3ac-12486a758917",
         "title": "查看完整日报"
       }
     ],
     "card_action": {
       "type": 1,
-      "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/b23cca0e-3d37-400f-9a2c-3c038dbf4ec7"
+      "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/e8474f5d-8d97-4cc8-a3ac-12486a758917"
     }
   }
 }
