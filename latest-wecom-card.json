@@ -8,7 +8,7 @@
     },
     "main_title": {
       "title": "重庆楼市选题日报",
-      "desc": "2026.07.28"
+      "desc": "2026.07.29"
     },
     "card_image": {
       "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -26,8 +26,12 @@
         "value": "住建部"
       },
       {
+        "keyname": "重庆楼市",
+        "value": "北碚、黔江、璧山、綦江保障性住房建设加速"
+      },
+      {
         "keyname": "本地热点",
-        "value": "重庆高校聚焦产业急需赛道开设三类微专业"
+        "value": "重庆发布城市更新政策指引"
       },
       {
         "keyname": "贝壳周报",
@@ -35,19 +39,19 @@
       },
       {
         "keyname": "更多内容",
-        "value": "另有6条资讯｜8区动态｜6条客户选题"
+        "value": "另有5条资讯｜8区动态｜6条客户选题"
       }
     ],
     "jump_list": [
       {
         "type": 1,
-        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/e8474f5d-8d97-4cc8-a3ac-12486a758917",
+        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/4cf160d1-003e-49bf-a016-7a57d0abf163",
         "title": "查看完整日报"
       }
     ],
     "card_action": {
       "type": 1,
-      "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/e8474f5d-8d97-4cc8-a3ac-12486a758917"
+      "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/4cf160d1-003e-49bf-a016-7a57d0abf163"
     }
   }
 }
