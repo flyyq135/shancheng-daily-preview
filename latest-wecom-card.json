@@ -8,7 +8,7 @@
     },
     "main_title": {
       "title": "重庆楼市选题日报",
-      "desc": "2026.07.29"
+      "desc": "2026.07.30"
     },
     "card_image": {
       "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -23,15 +23,15 @@
     "horizontal_content_list": [
       {
         "keyname": "全国重点",
-        "value": "住建部"
+        "value": "房地产市场筑底回稳态势增强——中国经济年中观察之六"
       },
       {
         "keyname": "重庆楼市",
-        "value": "北碚、黔江、璧山、綦江保障性住房建设加速"
+        "value": "安居无忧！北碚区、黔江区、璧山区、綦江区保障性住房…"
       },
       {
         "keyname": "本地热点",
-        "value": "重庆发布城市更新政策指引"
+        "value": "上半年重庆市级重点项目完成投资超2500亿元"
       },
       {
         "keyname": "贝壳周报",
@@ -45,13 +45,13 @@
     "jump_list": [
       {
         "type": 1,
-        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/4cf160d1-003e-49bf-a016-7a57d0abf163",
+        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9a22a782-0520-448b-95bc-a33de0e46299",
         "title": "查看完整日报"
       }
     ],
     "card_action": {
       "type": 1,
-      "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/4cf160d1-003e-49bf-a016-7a57d0abf163"
+      "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9a22a782-0520-448b-95bc-a33de0e46299"
     }
   }
 }
