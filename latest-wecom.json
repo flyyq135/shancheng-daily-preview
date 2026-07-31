@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-30",
-  "updated_at": "09:18",
-  "report_url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9a22a782-0520-448b-95bc-a33de0e46299",
+  "date": "2026-07-31",
+  "updated_at": "09:30",
+  "report_url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/792df3b9-cc54-4717-82d3-db8cb347fda3",
   "recommended_message_type": "template_card",
   "wecom_payload": {
     "msgtype": "template_card",
@@ -13,7 +13,7 @@
       },
       "main_title": {
         "title": "重庆楼市选题日报",
-        "desc": "2026.07.30"
+        "desc": "2026.07.31"
       },
       "card_image": {
         "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -50,15 +50,15 @@
       "jump_list": [
         {
           "type": 1,
-          "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9a22a782-0520-448b-95bc-a33de0e46299",
+          "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/792df3b9-cc54-4717-82d3-db8cb347fda3",
           "title": "查看完整日报"
         }
       ],
       "card_action": {
         "type": 1,
-        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9a22a782-0520-448b-95bc-a33de0e46299"
+        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/792df3b9-cc54-4717-82d3-db8cb347fda3"
       }
     }
   },
-  "text": "【重庆楼市选题日报｜2026.07.30】\n热点资讯\n① 房地产市场筑底回稳态势增强——中国经济年中观察之六\n② 安居无忧！北碚区、黔江区、璧山区、綦江区保障性住房建设加速\n③ 上半年重庆市级重点项目完成投资超2500亿元\n④ 新房成交6万㎡、均价15700元/㎡，核心“好房子”项目主导\n另有5条已核验资讯，点击日报查看。\n固定栏目：资讯要点｜8区动态｜选题角度｜购房百科｜灵感补给\nhttps://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9a22a782-0520-448b-95bc-a33de0e46299"
+  "text": "【重庆楼市选题日报｜2026.07.31】\n热点资讯\n① 房地产市场筑底回稳态势增强——中国经济年中观察之六\n② 安居无忧！北碚区、黔江区、璧山区、綦江区保障性住房建设加速\n③ 上半年重庆市级重点项目完成投资超2500亿元\n④ 新房成交6万㎡、均价15700元/㎡，核心“好房子”项目主导\n另有5条已核验资讯，点击日报查看。\n固定栏目：资讯要点｜8区动态｜选题角度｜购房百科｜灵感补给\nhttps://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/792df3b9-cc54-4717-82d3-db8cb347fda3"
 }
