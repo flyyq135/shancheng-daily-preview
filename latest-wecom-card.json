@@ -8,7 +8,7 @@
     },
     "main_title": {
       "title": "重庆楼市选题日报",
-      "desc": "2026.07.31"
+      "desc": "2026.08.03"
     },
     "card_image": {
       "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -23,15 +23,15 @@
     "horizontal_content_list": [
       {
         "keyname": "全国重点",
-        "value": "客观看待存量时代房地产投资缩减"
+        "value": "国常会审议通过住房公积金管理条例修改草案"
       },
       {
         "keyname": "重庆楼市",
-        "value": "安居无忧！北碚区、黔江区、璧山区、綦江区保障性住房…"
+        "value": "让住房公积金更好满足居民多样化住房消费需求"
       },
       {
         "keyname": "本地热点",
-        "value": "渝武高速拓宽改造项目主线7号桥架梁架设完成"
+        "value": "重庆中心城区多座大桥变形观测，发布出行提醒"
       },
       {
         "keyname": "贝壳周报",
@@ -45,13 +45,13 @@
     "jump_list": [
       {
         "type": 1,
-        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/792df3b9-cc54-4717-82d3-db8cb347fda3",
+        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/c255112d-097b-4cb9-b6f3-32aa17756092",
         "title": "查看完整日报"
       }
     ],
     "card_action": {
       "type": 1,
-      "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/792df3b9-cc54-4717-82d3-db8cb347fda3"
+      "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/c255112d-097b-4cb9-b6f3-32aa17756092"
     }
   }
 }
