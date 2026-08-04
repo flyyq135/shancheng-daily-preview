@@ -8,7 +8,7 @@
     },
     "main_title": {
       "title": "重庆楼市选题日报",
-      "desc": "2026.08.03"
+      "desc": "2026.08.04"
     },
     "card_image": {
       "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -23,7 +23,7 @@
     "horizontal_content_list": [
       {
         "keyname": "全国重点",
-        "value": "国常会审议通过住房公积金管理条例修改草案"
+        "value": "住房公积金将更好满足居民多样化住房消费需求"
       },
       {
         "keyname": "重庆楼市",
@@ -31,7 +31,7 @@
       },
       {
         "keyname": "本地热点",
-        "value": "重庆中心城区多座大桥变形观测，发布出行提醒"
+        "value": "重庆轨道交通设“儿童友好通道” 1.3米以下儿童无…"
       },
       {
         "keyname": "贝壳周报",
@@ -45,13 +45,13 @@
     "jump_list": [
       {
         "type": 1,
-        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/c255112d-097b-4cb9-b6f3-32aa17756092",
+        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/f47a07c3-fb29-4ace-baaf-d8b05885b527",
         "title": "查看完整日报"
       }
     ],
     "card_action": {
       "type": 1,
-      "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/c255112d-097b-4cb9-b6f3-32aa17756092"
+      "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/f47a07c3-fb29-4ace-baaf-d8b05885b527"
     }
   }
 }

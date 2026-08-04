@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-03",
-  "updated_at": "13:05",
-  "report_url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/c255112d-097b-4cb9-b6f3-32aa17756092",
+  "date": "2026-08-04",
+  "updated_at": "09:35",
+  "report_url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/f47a07c3-fb29-4ace-baaf-d8b05885b527",
   "recommended_message_type": "template_card",
   "wecom_payload": {
     "msgtype": "template_card",
@@ -13,7 +13,7 @@
       },
       "main_title": {
         "title": "重庆楼市选题日报",
-        "desc": "2026.08.03"
+        "desc": "2026.08.04"
       },
       "card_image": {
         "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -28,7 +28,7 @@
       "horizontal_content_list": [
         {
           "keyname": "全国重点",
-          "value": "国常会审议通过住房公积金管理条例修改草案"
+          "value": "住房公积金将更好满足居民多样化住房消费需求"
         },
         {
           "keyname": "重庆楼市",
@@ -36,7 +36,7 @@
         },
         {
           "keyname": "本地热点",
-          "value": "重庆中心城区多座大桥变形观测，发布出行提醒"
+          "value": "重庆轨道交通设“儿童友好通道” 1.3米以下儿童无…"
         },
         {
           "keyname": "贝壳周报",
@@ -50,15 +50,15 @@
       "jump_list": [
         {
           "type": 1,
-          "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/c255112d-097b-4cb9-b6f3-32aa17756092",
+          "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/f47a07c3-fb29-4ace-baaf-d8b05885b527",
           "title": "查看完整日报"
         }
       ],
       "card_action": {
         "type": 1,
-        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/c255112d-097b-4cb9-b6f3-32aa17756092"
+        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/f47a07c3-fb29-4ace-baaf-d8b05885b527"
       }
     }
   },
-  "text": "【重庆楼市选题日报｜2026.08.03】\n热点资讯\n① 国常会审议通过住房公积金管理条例修改草案\n② 让住房公积金更好满足居民多样化住房消费需求\n③ 重庆中心城区多座大桥变形观测，发布出行提醒\n④ 新房成交5万㎡、均价15061元/㎡，量价均回落\n另有5条已核验资讯，点击日报查看。\n固定栏目：资讯要点｜8区动态｜选题角度｜购房百科｜灵感补给\nhttps://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/c255112d-097b-4cb9-b6f3-32aa17756092"
+  "text": "【重庆楼市选题日报｜2026.08.04】\n热点资讯\n① 住房公积金将更好满足居民多样化住房消费需求\n② 让住房公积金更好满足居民多样化住房消费需求\n③ 重庆轨道交通设“儿童友好通道” 1.3米以下儿童无需刷卡直接通行\n④ 新房成交5万㎡、均价15061元/㎡，量价均回落\n另有5条已核验资讯，点击日报查看。\n固定栏目：资讯要点｜8区动态｜选题角度｜购房百科｜灵感补给\nhttps://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/f47a07c3-fb29-4ace-baaf-d8b05885b527"
 }
