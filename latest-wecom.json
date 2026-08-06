@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-05",
-  "updated_at": "10:45",
-  "report_url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/e51bc6ea-eac4-434a-b595-20c7f19df298",
+  "date": "2026-08-06",
+  "updated_at": "10:55",
+  "report_url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9db7f5d9-90d2-4533-bec1-583e4e68201b",
   "recommended_message_type": "template_card",
   "wecom_payload": {
     "msgtype": "template_card",
@@ -13,7 +13,7 @@
       },
       "main_title": {
         "title": "重庆楼市选题日报",
-        "desc": "2026.08.05"
+        "desc": "2026.08.06"
       },
       "card_image": {
         "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -28,19 +28,19 @@
       "horizontal_content_list": [
         {
           "keyname": "全国重点",
-          "value": "住房公积金将更好满足居民多样化住房消费需求"
+          "value": "住房公积金管理条例修改草案审议"
         },
         {
           "keyname": "重庆楼市",
-          "value": "渝中、两江新区保障性租赁住房集中上新"
+          "value": "北碚等区保障性住房建设加速"
         },
         {
           "keyname": "本地热点",
-          "value": "上半年重庆各区县GDP增速公布"
+          "value": "重庆高技术产业销售收入增长10.1%"
         },
         {
           "keyname": "贝壳周报",
-          "value": "新房成交5万㎡、均价15061元/㎡，量价均回落"
+          "value": "重庆新房成交5万㎡、均价15061元/㎡"
         },
         {
           "keyname": "更多内容",
@@ -50,15 +50,15 @@
       "jump_list": [
         {
           "type": 1,
-          "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/e51bc6ea-eac4-434a-b595-20c7f19df298",
+          "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9db7f5d9-90d2-4533-bec1-583e4e68201b",
           "title": "查看完整日报"
         }
       ],
       "card_action": {
         "type": 1,
-        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/e51bc6ea-eac4-434a-b595-20c7f19df298"
+        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9db7f5d9-90d2-4533-bec1-583e4e68201b"
       }
     }
   },
-  "text": "【重庆楼市选题日报｜2026.08.05】\n热点资讯\n① 住房公积金将更好满足居民多样化住房消费需求\n② 渝中、两江新区保障性租赁住房集中上新\n③ 上半年重庆各区县GDP增速公布\n④ 新房成交5万㎡、均价15061元/㎡，量价均回落\n另有5条已核验资讯，点击日报查看。\n固定栏目：资讯要点｜8区动态｜选题角度｜购房百科｜灵感补给\nhttps://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/e51bc6ea-eac4-434a-b595-20c7f19df298"
+  "text": "【重庆楼市选题日报｜2026.08.06】\n热点资讯\n① 住房公积金管理条例修改草案审议\n② 北碚等区保障性住房建设加速\n③ 重庆高技术产业销售收入增长10.1%\n④ 重庆新房成交5万㎡、均价15061元/㎡\n另有5条已核验资讯，点击日报查看。\n固定栏目：资讯要点｜8区动态｜选题角度｜购房百科｜灵感补给\nhttps://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9db7f5d9-90d2-4533-bec1-583e4e68201b"
 }
