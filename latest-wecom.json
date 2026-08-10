@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-07",
-  "updated_at": "09:10",
-  "report_url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/7f5a2e5c-640c-4442-ba02-b9f065f53063",
+  "date": "2026-08-10",
+  "updated_at": "09:30",
+  "report_url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/0c138a77-1ac5-4eb1-abca-1a94bc84a762",
   "recommended_message_type": "template_card",
   "wecom_payload": {
     "msgtype": "template_card",
@@ -13,7 +13,7 @@
       },
       "main_title": {
         "title": "重庆楼市选题日报",
-        "desc": "2026.08.07"
+        "desc": "2026.08.10"
       },
       "card_image": {
         "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -40,7 +40,7 @@
         },
         {
           "keyname": "楼市数据",
-          "value": "本周供应与成交量同步收窄"
+          "value": "本周中心城区供应2宗纯住宅用地"
         },
         {
           "keyname": "更多内容",
@@ -50,15 +50,15 @@
       "jump_list": [
         {
           "type": 1,
-          "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/7f5a2e5c-640c-4442-ba02-b9f065f53063",
+          "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/0c138a77-1ac5-4eb1-abca-1a94bc84a762",
           "title": "查看完整日报"
         }
       ],
       "card_action": {
         "type": 1,
-        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/7f5a2e5c-640c-4442-ba02-b9f065f53063"
+        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/0c138a77-1ac5-4eb1-abca-1a94bc84a762"
       }
     }
   },
-  "text": "【重庆楼市选题日报｜2026.08.07】\n热点资讯\n① 住房公积金管理条例修改草案审议\n② 北碚等区保障性住房建设加速\n③ 重庆高技术产业销售收入增长10.1%\n④ 本周供应与成交量同步收窄\n另有5条已核验资讯，点击日报查看。\n固定栏目：资讯要点｜8区动态｜选题角度｜购房百科｜灵感补给\nhttps://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/7f5a2e5c-640c-4442-ba02-b9f065f53063"
+  "text": "【重庆楼市选题日报｜2026.08.10】\n热点资讯\n① 住房公积金管理条例修改草案审议\n② 北碚等区保障性住房建设加速\n③ 重庆高技术产业销售收入增长10.1%\n④ 本周中心城区供应2宗纯住宅用地\n另有5条已核验资讯，点击日报查看。\n固定栏目：资讯要点｜8区动态｜选题角度｜购房百科｜灵感补给\nhttps://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/0c138a77-1ac5-4eb1-abca-1a94bc84a762"
 }

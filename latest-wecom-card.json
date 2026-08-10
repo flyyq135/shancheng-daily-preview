@@ -8,7 +8,7 @@
     },
     "main_title": {
       "title": "重庆楼市选题日报",
-      "desc": "2026.08.07"
+      "desc": "2026.08.10"
     },
     "card_image": {
       "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -35,7 +35,7 @@
       },
       {
         "keyname": "楼市数据",
-        "value": "本周供应与成交量同步收窄"
+        "value": "本周中心城区供应2宗纯住宅用地"
       },
       {
         "keyname": "更多内容",
@@ -45,13 +45,13 @@
     "jump_list": [
       {
         "type": 1,
-        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/7f5a2e5c-640c-4442-ba02-b9f065f53063",
+        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/0c138a77-1ac5-4eb1-abca-1a94bc84a762",
         "title": "查看完整日报"
       }
     ],
     "card_action": {
       "type": 1,
-      "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/7f5a2e5c-640c-4442-ba02-b9f065f53063"
+      "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/0c138a77-1ac5-4eb1-abca-1a94bc84a762"
     }
   }
 }
