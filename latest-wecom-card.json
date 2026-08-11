@@ -8,7 +8,7 @@
     },
     "main_title": {
       "title": "重庆楼市选题日报",
-      "desc": "2026.08.10"
+      "desc": "2026.08.11"
     },
     "card_image": {
       "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -45,13 +45,13 @@
     "jump_list": [
       {
         "type": 1,
-        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/0c138a77-1ac5-4eb1-abca-1a94bc84a762",
+        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/3116d5c5-64ca-4216-9cc3-f2188617a99e",
         "title": "查看完整日报"
       }
     ],
     "card_action": {
       "type": 1,
-      "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/0c138a77-1ac5-4eb1-abca-1a94bc84a762"
+      "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/3116d5c5-64ca-4216-9cc3-f2188617a99e"
     }
   }
 }
