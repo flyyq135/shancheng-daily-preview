@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
   "updated_at": "09:19",
-  "report_url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/16c79008-acbc-4e2e-80c7-51488f8c12c5",
+  "report_url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/29de8f24-2b6e-4512-a4f3-e02eec59ea3a",
   "recommended_message_type": "template_card",
   "wecom_payload": {
     "msgtype": "template_card",
@@ -50,15 +50,15 @@
       "jump_list": [
         {
           "type": 1,
-          "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/16c79008-acbc-4e2e-80c7-51488f8c12c5",
+          "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/29de8f24-2b6e-4512-a4f3-e02eec59ea3a",
           "title": "查看完整日报"
         }
       ],
       "card_action": {
         "type": 1,
-        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/16c79008-acbc-4e2e-80c7-51488f8c12c5"
+        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/29de8f24-2b6e-4512-a4f3-e02eec59ea3a"
       }
     }
   },
-  "text": "【重庆楼市选题日报｜2026.08.12】\n今日选题\n① 重庆老旧小区改造，先查5项再判断生活变化\n② 住重庆公租房，公共区域这5类隐患先查一遍\n③ 重庆图书馆7月31.6万人次，带娃家庭选公共文化圈看3项\n④ 重庆237条公交有免费Wi-Fi，通勤族实测别漏3段路\n另有2条今日选题，点击日报查看。\n固定栏目：资讯要点｜重庆楼市数据｜8区动态｜选题角度｜购房百科｜灵感补给\nhttps://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/16c79008-acbc-4e2e-80c7-51488f8c12c5"
+  "text": "【重庆楼市选题日报｜2026.08.12】\n今日选题\n① 重庆老旧小区改造，先查5项再判断生活变化\n② 住重庆公租房，公共区域这5类隐患先查一遍\n③ 重庆图书馆7月31.6万人次，带娃家庭选公共文化圈看3项\n④ 重庆237条公交有免费Wi-Fi，通勤族实测别漏3段路\n另有2条今日选题，点击日报查看。\n固定栏目：资讯要点｜重庆楼市数据｜8区动态｜选题角度｜购房百科｜灵感补给\nhttps://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/29de8f24-2b6e-4512-a4f3-e02eec59ea3a"
 }
