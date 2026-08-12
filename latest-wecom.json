@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-11",
-  "updated_at": "14:30",
-  "report_url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/3116d5c5-64ca-4216-9cc3-f2188617a99e",
+  "date": "2026-08-12",
+  "updated_at": "09:19",
+  "report_url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/16c79008-acbc-4e2e-80c7-51488f8c12c5",
   "recommended_message_type": "template_card",
   "wecom_payload": {
     "msgtype": "template_card",
@@ -13,7 +13,7 @@
       },
       "main_title": {
         "title": "重庆楼市选题日报",
-        "desc": "2026.08.11"
+        "desc": "2026.08.12"
       },
       "card_image": {
         "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -27,20 +27,20 @@
       ],
       "horizontal_content_list": [
         {
-          "keyname": "本地谈资",
-          "value": "重庆60%的消费发生在夜里，这座城为什么越夜越热闹？"
+          "keyname": "决策工具",
+          "value": "重庆老旧小区改造，先查5项再判断生活变化"
         },
         {
-          "keyname": "快讯解读",
-          "value": "在重庆这12个县上班，本科生每月能领1000元"
+          "keyname": "决策工具",
+          "value": "住重庆公租房，公共区域这5类隐患先查一遍"
         },
         {
-          "keyname": "快讯解读",
-          "value": "重庆今年要开1300余个公益托管点，企业里也能带娃"
+          "keyname": "场景对比",
+          "value": "重庆图书馆7月31.6万人次，带娃家庭选公共文化圈…"
         },
         {
-          "keyname": "避坑指南",
-          "value": "住保障房，这5个安全隐患今天就能自己查"
+          "keyname": "生活实测",
+          "value": "重庆237条公交有免费Wi-Fi，通勤族实测别漏3…"
         },
         {
           "keyname": "更多内容",
@@ -50,15 +50,15 @@
       "jump_list": [
         {
           "type": 1,
-          "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/3116d5c5-64ca-4216-9cc3-f2188617a99e",
+          "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/16c79008-acbc-4e2e-80c7-51488f8c12c5",
           "title": "查看完整日报"
         }
       ],
       "card_action": {
         "type": 1,
-        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/3116d5c5-64ca-4216-9cc3-f2188617a99e"
+        "url": "https://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/16c79008-acbc-4e2e-80c7-51488f8c12c5"
       }
     }
   },
-  "text": "【重庆楼市选题日报｜2026.08.11】\n今日选题\n① 重庆60%的消费发生在夜里，这座城为什么越夜越热闹？\n② 在重庆这12个县上班，本科生每月能领1000元\n③ 重庆今年要开1300余个公益托管点，企业里也能带娃\n④ 住保障房，这5个安全隐患今天就能自己查\n另有2条今日选题，点击日报查看。\n固定栏目：资讯要点｜重庆楼市数据｜8区动态｜选题角度｜购房百科｜灵感补给\nhttps://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/3116d5c5-64ca-4216-9cc3-f2188617a99e"
+  "text": "【重庆楼市选题日报｜2026.08.12】\n今日选题\n① 重庆老旧小区改造，先查5项再判断生活变化\n② 住重庆公租房，公共区域这5类隐患先查一遍\n③ 重庆图书馆7月31.6万人次，带娃家庭选公共文化圈看3项\n④ 重庆237条公交有免费Wi-Fi，通勤族实测别漏3段路\n另有2条今日选题，点击日报查看。\n固定栏目：资讯要点｜重庆楼市数据｜8区动态｜选题角度｜购房百科｜灵感补给\nhttps://app-fly.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/16c79008-acbc-4e2e-80c7-51488f8c12c5"
 }
