@@ -8,38 +8,32 @@
     },
     "main_title": {
       "title": "重庆楼市选题日报",
-      "desc": "2026.08.13"
+      "desc": "2026.08.13｜如无法打开，请使用贝壳内网或者打开云枢"
     },
     "card_image": {
       "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
       "aspect_ratio": 1.8
     },
-    "vertical_content_list": [
-      {
-        "title": "今日9条已核验资讯",
-        "desc": "从城市新鲜事、居住生活、政策和数据中，找到今天有人想看的内容角度。提醒：如无法打开，请使用贝壳内网或者打开云枢。"
-      }
-    ],
     "horizontal_content_list": [
       {
-        "keyname": "决策工具",
-        "value": "重庆老旧小区改造，先查5项再判断生活变化"
+        "keyname": "住房",
+        "value": "北碚等区保障性住房建设公布进度"
       },
       {
-        "keyname": "决策工具",
-        "value": "住重庆公租房，公共区域这5类隐患先查一遍"
+        "keyname": "交通",
+        "value": "重庆中心城区公交AI导乘服务升级"
       },
       {
-        "keyname": "场景对比",
-        "value": "重庆图书馆7月31.6万人次，带娃家庭选公共文化圈…"
+        "keyname": "民生",
+        "value": "重庆286家商户入选高德扫街榜"
       },
       {
-        "keyname": "生活实测",
-        "value": "重庆237条公交有免费Wi-Fi，通勤族实测别漏3…"
+        "keyname": "政策",
+        "value": "城市更新“十五五”规划明确14项重大工程和行动"
       },
       {
-        "keyname": "更多内容",
-        "value": "另有2条选题｜8区动态｜楼市数据"
+        "keyname": "内含",
+        "value": "资讯速递 · 楼市数据 · 区域聚焦\n选题推荐 · 灵感补给 · 购房百科"
       }
     ],
     "jump_list": [
