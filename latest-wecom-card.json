@@ -8,7 +8,7 @@
     },
     "main_title": {
       "title": "重庆楼市选题日报",
-      "desc": "2026.08.13"
+      "desc": "2026.08.14"
     },
     "card_image": {
       "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -17,31 +17,31 @@
     "horizontal_content_list": [
       {
         "keyname": "要闻",
-        "value": "重庆公租房启动百日除险固安专项攻坚"
+        "value": "重庆公租房启动除险固安百日攻坚"
       },
       {
         "keyname": "要闻",
-        "value": "重庆图书馆7月接待读者31.6万人次"
+        "value": "重庆上线北斗卫星短信应急通信服务"
       },
       {
         "keyname": "要闻",
-        "value": "重庆中心城区公交AI导乘服务升级"
+        "value": "渝中推进300亿元级设计产业布局"
       },
       {
         "keyname": "要闻",
-        "value": "城市更新“十五五”规划明确14项重大工程和行动"
+        "value": "今年前7个月重庆外贸进出口同比增长30.6%"
       }
     ],
     "jump_list": [
       {
         "type": 1,
-        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/26c6f50f-c2f8-4b77-8ad1-7fd1a9fad3e9",
+        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/57fcf846-fd68-44ea-9608-5db58cfd0bea",
         "title": "查看完整日报"
       }
     ],
     "card_action": {
       "type": 1,
-      "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/26c6f50f-c2f8-4b77-8ad1-7fd1a9fad3e9"
+      "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/57fcf846-fd68-44ea-9608-5db58cfd0bea"
     }
   }
 }

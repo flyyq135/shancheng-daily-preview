@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-13",
-  "updated_at": "10:30",
-  "report_url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/26c6f50f-c2f8-4b77-8ad1-7fd1a9fad3e9",
+  "date": "2026-08-14",
+  "updated_at": "09:11",
+  "report_url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/57fcf846-fd68-44ea-9608-5db58cfd0bea",
   "recommended_message_type": "template_card",
   "wecom_payload": {
     "msgtype": "template_card",
@@ -13,7 +13,7 @@
       },
       "main_title": {
         "title": "重庆楼市选题日报",
-        "desc": "2026.08.13"
+        "desc": "2026.08.14"
       },
       "card_image": {
         "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -22,33 +22,33 @@
       "horizontal_content_list": [
         {
           "keyname": "要闻",
-          "value": "重庆公租房启动百日除险固安专项攻坚"
+          "value": "重庆公租房启动除险固安百日攻坚"
         },
         {
           "keyname": "要闻",
-          "value": "重庆图书馆7月接待读者31.6万人次"
+          "value": "重庆上线北斗卫星短信应急通信服务"
         },
         {
           "keyname": "要闻",
-          "value": "重庆中心城区公交AI导乘服务升级"
+          "value": "渝中推进300亿元级设计产业布局"
         },
         {
           "keyname": "要闻",
-          "value": "城市更新“十五五”规划明确14项重大工程和行动"
+          "value": "今年前7个月重庆外贸进出口同比增长30.6%"
         }
       ],
       "jump_list": [
         {
           "type": 1,
-          "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/26c6f50f-c2f8-4b77-8ad1-7fd1a9fad3e9",
+          "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/57fcf846-fd68-44ea-9608-5db58cfd0bea",
           "title": "查看完整日报"
         }
       ],
       "card_action": {
         "type": 1,
-        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/26c6f50f-c2f8-4b77-8ad1-7fd1a9fad3e9"
+        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/57fcf846-fd68-44ea-9608-5db58cfd0bea"
       }
     }
   },
-  "text": "【重庆楼市选题日报｜2026.08.13】\n今日选题\n① 重庆老旧小区改造，先查5项再判断生活变化\n② 住重庆公租房，公共区域这5类隐患先查一遍\n③ 重庆图书馆7月31.6万人次，带娃家庭选公共文化圈看3项\n④ 重庆237条公交有免费Wi-Fi，通勤族实测别漏3段路\n另有2条今日选题，点击日报查看。\n固定栏目：资讯要点｜重庆楼市数据｜8区动态｜选题角度｜购房百科｜灵感补给\nhttps://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/26c6f50f-c2f8-4b77-8ad1-7fd1a9fad3e9"
+  "text": "【重庆楼市选题日报｜2026.08.14】\n今日选题\n① 重庆公租房排查隐患，住户先查5个位置\n② 重庆老旧小区更新，先查5项再判断生活变化\n③ 重庆北斗卫星短信怎么用？入住前先做一次3步检查\n④ 渝中设计产业目标300亿元，选居住片区先看3条线\n另有2条今日选题，点击日报查看。\n固定栏目：资讯要点｜重庆楼市数据｜8区动态｜选题角度｜购房百科｜灵感补给\nhttps://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/57fcf846-fd68-44ea-9608-5db58cfd0bea"
 }
