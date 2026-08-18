@@ -8,7 +8,7 @@
     },
     "main_title": {
       "title": "重庆楼市选题日报",
-      "desc": "2026.08.17"
+      "desc": "2026.08.18"
     },
     "card_image": {
       "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -17,31 +17,31 @@
     "horizontal_content_list": [
       {
         "keyname": "要闻",
-        "value": "重庆公租房启动除险固安百日攻坚"
+        "value": "2026年1—7月份全国房地产市场基本情况"
       },
       {
         "keyname": "要闻",
-        "value": "重庆轨道17号线与18号线北延伸段取得新进展"
+        "value": "重庆发布城乡规划公告"
       },
       {
         "keyname": "要闻",
-        "value": "重庆3条公交线实行响应式下客"
+        "value": "通车进度+1！重庆轨道交通27号线璧山—西永区段顺…"
       },
       {
         "keyname": "要闻",
-        "value": "重庆风电光伏装机突破1000万千瓦"
+        "value": "5图 开局起步“十五五” 建设现代化新重庆｜綦江向…"
       }
     ],
     "jump_list": [
       {
         "type": 1,
-        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/6ca5d8b4-3762-4681-99db-006b7dd4a8a6",
+        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/22100075-1348-4372-ae1e-a8c06b8b6a76",
         "title": "查看完整日报"
       }
     ],
     "card_action": {
       "type": 1,
-      "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/6ca5d8b4-3762-4681-99db-006b7dd4a8a6"
+      "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/22100075-1348-4372-ae1e-a8c06b8b6a76"
     }
   }
 }
