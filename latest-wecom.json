@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "updated_at": "09:20",
+  "updated_at": "10:52",
   "report_url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/6b803e64-c3e9-44ab-b68c-15abe78eb5a1",
   "recommended_message_type": "template_card",
   "wecom_payload": {
@@ -22,19 +22,19 @@
       "horizontal_content_list": [
         {
           "keyname": "要闻",
+          "value": "27号线璧山—西永区段实现“电通”"
+        },
+        {
+          "keyname": "要闻",
+          "value": "1—7月重庆消费市场持续复苏"
+        },
+        {
+          "keyname": "要闻",
+          "value": "重庆45个低碳场景可兑换“绿色收益”"
+        },
+        {
+          "keyname": "要闻",
           "value": "房地产拉动投资方式转向城市更新"
-        },
-        {
-          "keyname": "要闻",
-          "value": "2026年1—7月份全国房地产市场基本情况"
-        },
-        {
-          "keyname": "要闻",
-          "value": "通车进度+1！重庆轨道交通27号线璧山—西永区段顺…"
-        },
-        {
-          "keyname": "要闻",
-          "value": "工业韧性凸显 消费稳步回暖 1—7月重庆经济运行数…"
         }
       ],
       "jump_list": [
