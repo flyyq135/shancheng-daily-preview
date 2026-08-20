@@ -8,7 +8,7 @@
     },
     "main_title": {
       "title": "重庆楼市选题日报",
-      "desc": "2026.08.19"
+      "desc": "2026.08.20"
     },
     "card_image": {
       "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -17,31 +17,31 @@
     "horizontal_content_list": [
       {
         "keyname": "要闻",
-        "value": "27号线璧山—西永区段实现“电通”"
+        "value": "不用主动申报 证件自动办结 重庆2432个项目“免…"
       },
       {
         "keyname": "要闻",
-        "value": "1—7月重庆消费市场持续复苏"
+        "value": "3图 民生观察｜重庆家政服务消费普及率超八成，人才…"
       },
       {
         "keyname": "要闻",
-        "value": "重庆45个低碳场景可兑换“绿色收益”"
+        "value": "来一场独属山城的浪漫 今年重庆七夕消费市场迎来四大…"
       },
       {
         "keyname": "要闻",
-        "value": "房地产拉动投资方式转向城市更新"
+        "value": "2026年1—7月重庆市经济运行简况"
       }
     ],
     "jump_list": [
       {
         "type": 1,
-        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/6b803e64-c3e9-44ab-b68c-15abe78eb5a1",
+        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/82c3935a-83f0-4be5-b530-309d44f1e951",
         "title": "查看完整日报"
       }
     ],
     "card_action": {
       "type": 1,
-      "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/6b803e64-c3e9-44ab-b68c-15abe78eb5a1"
+      "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/82c3935a-83f0-4be5-b530-309d44f1e951"
     }
   }
 }
