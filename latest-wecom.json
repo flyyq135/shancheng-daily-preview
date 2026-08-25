@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-21",
-  "updated_at": "09:08",
-  "report_url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/d09177d5-d2ca-469c-a1b5-f8f6e7918522",
+  "date": "2026-08-25",
+  "updated_at": "09:30",
+  "report_url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/2b48e288-a807-4e2d-9e78-d5127fc12d37",
   "recommended_message_type": "template_card",
   "wecom_payload": {
     "msgtype": "template_card",
@@ -13,7 +13,7 @@
       },
       "main_title": {
         "title": "重庆楼市选题日报",
-        "desc": "2026.08.21"
+        "desc": "2026.08.25"
       },
       "card_image": {
         "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -22,33 +22,33 @@
       "horizontal_content_list": [
         {
           "keyname": "要闻",
-          "value": "重庆858家养老机构完成消防问题整改"
+          "value": "1—7月全国房地产开发投资43009亿元"
         },
         {
           "keyname": "要闻",
-          "value": "重庆“两院一湾”人工智能平台预计年底投用"
+          "value": "四川1—7月房地产开发投资同比降7.5%"
         },
         {
           "keyname": "要闻",
-          "value": "重庆2030年都市圈1小时通勤覆盖率目标75%"
+          "value": "重庆公租房小区启动百日安全行动"
         },
         {
           "keyname": "要闻",
-          "value": "南岸一小区管道直饮水项目预计覆盖千余户"
+          "value": "重庆中心城区规划1570个公共停车场"
         }
       ],
       "jump_list": [
         {
           "type": 1,
-          "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/d09177d5-d2ca-469c-a1b5-f8f6e7918522",
+          "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/2b48e288-a807-4e2d-9e78-d5127fc12d37",
           "title": "查看完整日报"
         }
       ],
       "card_action": {
         "type": 1,
-        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/d09177d5-d2ca-469c-a1b5-f8f6e7918522"
+        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/2b48e288-a807-4e2d-9e78-d5127fc12d37"
       }
     }
   },
-  "text": "【重庆楼市选题日报｜2026.08.21】\n今日选题\n① 重庆养老机构整改完成：哪些服务变化可被看见？\n② 小区直饮水开工后，先看通水时间和覆盖楼栋\n③ 1小时通勤目标公布，哪些联运方式会先落地？\n固定栏目：资讯要点｜重庆楼市数据｜8区动态｜选题推荐｜购房百科｜灵感补给\nhttps://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/d09177d5-d2ca-469c-a1b5-f8f6e7918522"
+  "text": "【重庆楼市选题日报｜2026.08.25】\n今日选题\n① 重庆停车场规划公布：1570个公共停车场如何分阶段看？\n② 鹿角隧道进度28%：工程阶段和线路范围怎么核对？\n③ 重庆规划公示怎么看：先查区域、地块和公示期\n固定栏目：资讯要点｜重庆楼市数据｜8区动态｜选题推荐｜购房百科｜灵感补给\nhttps://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/2b48e288-a807-4e2d-9e78-d5127fc12d37"
 }
