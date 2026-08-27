@@ -8,7 +8,7 @@
     },
     "main_title": {
       "title": "重庆楼市选题日报",
-      "desc": "2026年8月26日"
+      "desc": "2026年8月27日"
     },
     "card_image": {
       "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -17,31 +17,31 @@
     "horizontal_content_list": [
       {
         "keyname": "要闻",
-        "value": "重庆3个项目入选“好房子”智能建造案例"
+        "value": "2026年1—7月份全国房地产市场基本情况"
       },
       {
         "keyname": "要闻",
-        "value": "两江新区绿心已有6家品牌开设首店"
+        "value": "住房公积金管理条例修改决定9月20日起施行"
       },
       {
         "keyname": "要闻",
-        "value": "重庆民营经济上半年增加值超万亿元"
+        "value": "重庆3个项目入选首批“好房子”智能建造案例"
       },
       {
         "keyname": "要闻",
-        "value": "公积金制度覆盖范围扩至灵活就业群体"
+        "value": "重庆20余处轨道站闲置空间转作运动和消费场所"
       }
     ],
     "jump_list": [
       {
         "type": 1,
-        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/4f8c4496-8faa-4c64-9b79-a22c8d764593",
+        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9c3929d9-1d41-4dae-8142-c7ac1f522a77",
         "title": "查看完整日报"
       }
     ],
     "card_action": {
       "type": 1,
-      "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/4f8c4496-8faa-4c64-9b79-a22c8d764593"
+      "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9c3929d9-1d41-4dae-8142-c7ac1f522a77"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-26",
-  "updated_at": "2026-08-26T09:10:00+08:00",
-  "report_url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/4f8c4496-8faa-4c64-9b79-a22c8d764593",
+  "date": "2026-08-27",
+  "updated_at": "2026-08-27T09:15:00+08:00",
+  "report_url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9c3929d9-1d41-4dae-8142-c7ac1f522a77",
   "recommended_message_type": "template_card",
   "wecom_payload": {
     "msgtype": "template_card",
@@ -13,7 +13,7 @@
       },
       "main_title": {
         "title": "重庆楼市选题日报",
-        "desc": "2026年8月26日"
+        "desc": "2026年8月27日"
       },
       "card_image": {
         "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -22,33 +22,33 @@
       "horizontal_content_list": [
         {
           "keyname": "要闻",
-          "value": "重庆3个项目入选“好房子”智能建造案例"
+          "value": "2026年1—7月份全国房地产市场基本情况"
         },
         {
           "keyname": "要闻",
-          "value": "两江新区绿心已有6家品牌开设首店"
+          "value": "住房公积金管理条例修改决定9月20日起施行"
         },
         {
           "keyname": "要闻",
-          "value": "重庆民营经济上半年增加值超万亿元"
+          "value": "重庆3个项目入选首批“好房子”智能建造案例"
         },
         {
           "keyname": "要闻",
-          "value": "公积金制度覆盖范围扩至灵活就业群体"
+          "value": "重庆20余处轨道站闲置空间转作运动和消费场所"
         }
       ],
       "jump_list": [
         {
           "type": 1,
-          "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/4f8c4496-8faa-4c64-9b79-a22c8d764593",
+          "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9c3929d9-1d41-4dae-8142-c7ac1f522a77",
           "title": "查看完整日报"
         }
       ],
       "card_action": {
         "type": 1,
-        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/4f8c4496-8faa-4c64-9b79-a22c8d764593"
+        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9c3929d9-1d41-4dae-8142-c7ac1f522a77"
       }
     }
   },
-  "text": "【重庆楼市选题日报｜2026年8月26日】\n今日选题\n① 重庆3个“好房子”案例，智能建造用在了哪些项目？\n② 鹿角隧道进度28%，线路连接哪里？\n③ 悦来绿心的6家首店，都是什么类型？\n固定栏目：资讯要点｜重庆楼市数据｜8区动态｜选题推荐｜购房百科｜灵感补给\nhttps://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/4f8c4496-8faa-4c64-9b79-a22c8d764593"
+  "text": "【重庆楼市选题日报｜2026年8月27日】\n今日选题\n① 重庆20多处轨道站“边角地”，现在都改成了什么？\n② 鹿角隧道28%、南引道86%，两项工程各到哪一步？\n③ 公积金提取、贷款申请后，办理时限怎么查？\n固定栏目：资讯要点｜重庆楼市数据｜8区动态｜选题推荐｜购房百科｜灵感补给\nhttps://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9c3929d9-1d41-4dae-8142-c7ac1f522a77"
 }
