@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-28",
-  "updated_at": "2026-08-28T09:20:00+08:00",
-  "report_url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/27b7c8d8-8978-4cb8-b099-bf8a7ba79479",
+  "date": "2026-09-07",
+  "updated_at": "2026-09-07T16:05:00+08:00",
+  "report_url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9b86654d-8d6b-41be-b8df-c4320997c660",
   "recommended_message_type": "template_card",
   "wecom_payload": {
     "msgtype": "template_card",
@@ -13,7 +13,7 @@
       },
       "main_title": {
         "title": "重庆楼市选题日报",
-        "desc": "2026年8月28日"
+        "desc": "2026年9月7日"
       },
       "card_image": {
         "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -22,33 +22,33 @@
       "horizontal_content_list": [
         {
           "keyname": "要闻",
-          "value": "2026年1—7月份全国房地产市场基本情况"
+          "value": "楼市政策工具箱发力稳市场"
         },
         {
           "keyname": "要闻",
-          "value": "重庆3个项目入选首批智能建造典型工程案例"
+          "value": "房贷期限长短要看两个变量"
         },
         {
           "keyname": "要闻",
-          "value": "重庆江北机场暑运累计迎送旅客914.3万人次"
+          "value": "重庆未来五年城市交通规划发布"
         },
         {
           "keyname": "要闻",
-          "value": "重庆启动农村养老协管员公益性岗位"
+          "value": "40年房贷申请细则待明确"
         }
       ],
       "jump_list": [
         {
           "type": 1,
-          "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/27b7c8d8-8978-4cb8-b099-bf8a7ba79479",
+          "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9b86654d-8d6b-41be-b8df-c4320997c660",
           "title": "查看完整日报"
         }
       ],
       "card_action": {
         "type": 1,
-        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/27b7c8d8-8978-4cb8-b099-bf8a7ba79479"
+        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9b86654d-8d6b-41be-b8df-c4320997c660"
       }
     }
   },
-  "text": "【重庆楼市选题日报｜2026年8月28日】\n今日选题\n① 两江新区科创城被写进重庆市域科创走廊，具体布局是什么？\n② 重庆机场夜间值机、过夜休息区分别能解决什么？\n③ 重庆上周新房成交5.8万平方米，供应和均价怎么读？\n固定栏目：资讯要点｜重庆楼市数据｜8区动态｜选题推荐｜购房百科｜灵感补给\nhttps://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/27b7c8d8-8978-4cb8-b099-bf8a7ba79479"
+  "text": "【重庆楼市选题日报｜2026年9月7日】\n今日选题\n① 重庆8月新房与二手均价都回落，怎样看自己的目标板块？\n② 重庆未来五年交通规划，通勤选择先核对哪几项？\n③ 桥下便民空间怎样从路过变成可用的生活配套？\n固定栏目：资讯要点｜重庆楼市数据｜8区动态｜选题推荐｜购房百科｜灵感补给\nhttps://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9b86654d-8d6b-41be-b8df-c4320997c660"
 }

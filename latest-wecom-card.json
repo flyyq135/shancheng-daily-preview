@@ -8,7 +8,7 @@
     },
     "main_title": {
       "title": "重庆楼市选题日报",
-      "desc": "2026年8月28日"
+      "desc": "2026年9月7日"
     },
     "card_image": {
       "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -17,31 +17,31 @@
     "horizontal_content_list": [
       {
         "keyname": "要闻",
-        "value": "2026年1—7月份全国房地产市场基本情况"
+        "value": "楼市政策工具箱发力稳市场"
       },
       {
         "keyname": "要闻",
-        "value": "重庆3个项目入选首批智能建造典型工程案例"
+        "value": "房贷期限长短要看两个变量"
       },
       {
         "keyname": "要闻",
-        "value": "重庆江北机场暑运累计迎送旅客914.3万人次"
+        "value": "重庆未来五年城市交通规划发布"
       },
       {
         "keyname": "要闻",
-        "value": "重庆启动农村养老协管员公益性岗位"
+        "value": "40年房贷申请细则待明确"
       }
     ],
     "jump_list": [
       {
         "type": 1,
-        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/27b7c8d8-8978-4cb8-b099-bf8a7ba79479",
+        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9b86654d-8d6b-41be-b8df-c4320997c660",
         "title": "查看完整日报"
       }
     ],
     "card_action": {
       "type": 1,
-      "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/27b7c8d8-8978-4cb8-b099-bf8a7ba79479"
+      "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9b86654d-8d6b-41be-b8df-c4320997c660"
     }
   }
 }
