@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-07",
-  "updated_at": "2026-09-07T16:05:00+08:00",
-  "report_url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9b86654d-8d6b-41be-b8df-c4320997c660",
+  "date": "2026-09-20",
+  "updated_at": "2026-09-20T10:00:00+08:00",
+  "report_url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/54f7916d-314c-4f52-b32f-0d4671172658",
   "recommended_message_type": "template_card",
   "wecom_payload": {
     "msgtype": "template_card",
@@ -13,7 +13,7 @@
       },
       "main_title": {
         "title": "重庆楼市选题日报",
-        "desc": "2026年9月7日"
+        "desc": "2026年9月20日"
       },
       "card_image": {
         "url": "https://flyyq135.github.io/shancheng-daily-preview/assets/wecom-daily-cover.jpg",
@@ -22,33 +22,33 @@
       "horizontal_content_list": [
         {
           "keyname": "要闻",
-          "value": "楼市政策工具箱发力稳市场"
+          "value": "8月份70个大中城市商品住宅销售价格变动情况"
         },
         {
           "keyname": "要闻",
-          "value": "房贷期限长短要看两个变量"
+          "value": "1—8月份全国房地产市场基本情况"
         },
         {
           "keyname": "要闻",
-          "value": "重庆未来五年城市交通规划发布"
+          "value": "重庆1—8月经济运行简况"
         },
         {
           "keyname": "要闻",
-          "value": "40年房贷申请细则待明确"
+          "value": "重庆城市更新社会资本占比63%"
         }
       ],
       "jump_list": [
         {
           "type": 1,
-          "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9b86654d-8d6b-41be-b8df-c4320997c660",
+          "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/54f7916d-314c-4f52-b32f-0d4671172658",
           "title": "查看完整日报"
         }
       ],
       "card_action": {
         "type": 1,
-        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9b86654d-8d6b-41be-b8df-c4320997c660"
+        "url": "https://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/54f7916d-314c-4f52-b32f-0d4671172658"
       }
     }
   },
-  "text": "【重庆楼市选题日报｜2026年9月7日】\n今日选题\n① 重庆8月新房与二手均价都回落，怎样看自己的目标板块？\n② 重庆未来五年交通规划，通勤选择先核对哪几项？\n③ 桥下便民空间怎样从路过变成可用的生活配套？\n固定栏目：资讯要点｜重庆楼市数据｜8区动态｜选题推荐｜购房百科｜灵感补给\nhttps://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/9b86654d-8d6b-41be-b8df-c4320997c660"
+  "text": "【重庆楼市选题日报｜2026年9月20日】\n今日选题\n① 8月份70个大中城市商品住宅销售价格变动情况，哪些事实需要分开看？\n② 1—8月份全国房地产市场基本情况，哪些事实需要分开看？\n③ 重庆1—8月经济运行简况，哪些事实需要分开看？\n固定栏目：资讯要点｜重庆楼市数据｜8区动态｜选题推荐｜购房百科｜灵感补给\nhttps://app-moma.ke.com/09dbb06c-1f16-4265-a76b-d29534cf3574/#/preview/54f7916d-314c-4f52-b32f-0d4671172658"
 }
